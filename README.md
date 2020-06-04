@@ -71,3 +71,18 @@ Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente i
 ## 7.Codigo Fuente
 Node-Red se basa en Node.js. Para instalar el Node-Red, necesitas tener tanto Node.js instalado como NPM. Con NPM, es muy fácil instalar. Debemos acceder al common pront de Node.js y digitar:
 - npm install -g node-red
+El editor de flujo de Node-Red es una aplicación basada en navegadores web. Para poder utilizarlo, ejecuta Node-Red en el common pront:
+- node-red
+
+## 8.Descripción de Prerrequisitos y configuración.
+Esto puede depender del proyecto que se vaya a poner en marcha con node-red se necesita Windows 7/8/10 de (32 o 64 bits), Mac OS o incluso se la podemos instalar en una raspberry pi claro que dependiendo el hardware en el cual se corre node-red tendrá diferentes limitaciones o problemas de compatibilidad que se pueden solucionar con la intalacion de diferentes drivers faltantes.
+
+## 9.Aportaciones
+###  Voltimetro en la pantalla de tu computadora
+#### Materiales:
+- 1 Resistencia 1MOhm.
+- 1 Resistencia 100K
+- 1 Multímetro
+- 1 Arduino
+- 1 Protoboard
+- 1 Fuente de poder
