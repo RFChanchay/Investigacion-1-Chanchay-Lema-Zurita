@@ -151,6 +151,7 @@ Para la instalación de la herramienta (en Raspberry Pi) y los nodos correspondi
 #### Instalación de la Herramienta
 
 **Nota:** Se debe tomar en cuenta los prerrequisitos para Raspberry Pi
+
 **1.** Proporcionamos un script para instalar Node.js, npm y Node-RED en una Raspberry Pi. El script también se puede usar para actualizar una instalación existente cuando hay una nueva versión disponible.
 Ejecutar el siguiente comando descargará y ejecutará el script. Este script funcionará en cualquier sistema operativo basado en Debian, incluidos Ubuntu y Diet-Pi. Es posible que primero deba ejecutar sudo apt install build-essential git para asegurarse de que npm pueda construir cualquier módulo binario que necesite instalar.
 
@@ -176,12 +177,18 @@ sudo systemctl enable nodered.service
 Node-RED viene con un conjunto básico de nodos útiles, pero hay muchos más disponibles tanto del proyecto Node-RED como de la comunidad en general.
 
 Puede buscar nodos disponibles en la biblioteca Node-RED.
+
 **1.** Usando el editor puede instalar nodos directamente dentro del editor seleccionando la opción Administrar paleta en el menú principal para abrir el Administrador de paletas.
+
 **2.** La pestaña "Nodos" enumera todos los módulos que ha instalado. Muestra qué está utilizando y si hay actualizaciones disponibles para alguno de ellos.
+
 **3.** La pestaña "Instalar" le permite buscar en el catálogo de módulos de nodo disponibles e instalarlos.
+
 **4.** Instalando con npm, para instalar un módulo de nodo desde la línea de comandos, puede usar el siguiente comando desde su directorio de datos de usuario
+
 **5.** Luego deberá reiniciar Node-RED para que pueda recoger los nuevos nodos.
 Las versiones recientes de npm agregarán automáticamente el módulo a la sección de dependencias del archivo package.json en su directorio de usuario.
+
 **Nota:**  Durante el desarrollo también es posible instalar nodos copiando sus archivos .js y .html en un directorio de nodos dentro de su directorio de datos de usuario. Si estos nodos tienen dependencias npm, también deben instalarse dentro del directorio de datos del usuario. Esto solo se recomienda realmente para fines de desarrollo.
 
 
