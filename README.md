@@ -103,3 +103,25 @@ Configuración Nodo chart (Node-RED Dashboard)
 Con unas pocas configuraciones podemos crear una gráfica para visualizar en nuestros datos.
 
 ![](img/7.png)
+#### Configuración Nodo Serial Port (Puerto serial)
+Vinculamos el puerto serial a usar para conectar nuestro dispositivo y nuestro arduino
+
+![](img/8.png)
+#### Node-RED Dashboard
+Utilizaremos los nodos Dashboard para ser más específicos los widgets Chart y Gauge que nos permiten visualizar la gráfica en tiempo real de los voltajes medidos.
+
+![](img/9.png)
+
+#### Código de Arduino
+Nuestro código va a tomar 10 muestras de los valores de voltaje ingresado dividido por el divisor de voltaje, entonces mediante la calibración debemos determinar los valores óptimos para que concuerde la medición de un voltímetro real y nuestro código.
+
+![](img/10.png)
+
+
+
+
+
+
+
+
+
