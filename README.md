@@ -63,3 +63,4 @@ Después tenemos que realizar un flujo simple  en el cual primero estar en forma
 Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente imagen.
 ![](img/2.png)
 ![](img/4.png)
+## 6.Lista de Componentes
