@@ -149,5 +149,13 @@ Node-RED, Running on Raspberry Pi y Adding nodes to the palette,recopilado de: h
 Para la instalación de la herramienta (en Raspberry Pi) y los nodos correspondientes.
 
 ####Instalación de la Herramienta
-- **Nota:** Se debe tomar en cuenta los prerrequisitos para Raspberry Pi
-- **1** Proporcionamos un script para instalar Node.js, npm y Node-RED en una Raspberry Pi. El script también se puede usar para actualizar una instalación existente cuando hay una nueva versión disponible.
+**Nota:** Se debe tomar en cuenta los prerrequisitos para Raspberry Pi
+*1.* Proporcionamos un script para instalar Node.js, npm y Node-RED en una Raspberry Pi. El script también se puede usar para actualizar una instalación existente cuando hay una nueva versión disponible.
+Ejecutar el siguiente comando descargará y ejecutará el script. Este script funcionará en cualquier sistema operativo basado en Debian, incluidos Ubuntu y Diet-Pi. Es posible que primero deba ejecutar sudo apt install build-essential git para asegurarse de que npm pueda construir cualquier módulo binario que necesite instalar.
+
+*2.* Uso de comandos para correr Node-RED
+Corriendo localmente, al igual que al ejecutar Node-RED localmente, puede usar el comando node-red para ejecutar Node-RED en una terminal. Luego se puede detener presionando Ctrl-C o cerrando la ventana de terminal.
+Debido a la memoria limitada de Raspberry Pi, deberá iniciar Node-RED con un argumento adicional para indicarle al proceso Node.js subyacente que libere memoria no utilizada antes de lo que lo haría de otra manera.
+Para hacer esto, debe usar el comando alternativo node-red-pi y pasar el argumento max-old-space-size.
+*3.* Correr como un servicio
+El script de instalación para Pi también lo configura para ejecutarse como un servicio. Esto significa que puede ejecutarse en segundo plano y habilitarse para iniciarse automáticamente en el arranque.
