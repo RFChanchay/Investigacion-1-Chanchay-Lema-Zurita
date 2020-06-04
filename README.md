@@ -57,4 +57,4 @@ Siendo así que podemos basar nuestras aportaciones en muchos de los ejemplos qu
 Automatización de las luces de una casa por nodos
 En la siguiente imagen podemos ver que las imágenes con la notificación en amarillo son las que están ejecutando pero no se puede encontrar ningún dispositivo para que el dispositivo aparezca debe estar conectado a la misma red.
 
-![](img/11.png)
+![](img/1.png)
