@@ -1,11 +1,8 @@
 # NODE-RED
 
 
-## 1. PLANTEAMIENTO
-Con el fin de emular el funcionamiento del microprocesador del 8086 e implementar un codigo sencillo en lenguaje ensamblador para lo cual se plantea el procediento acontinuación:
-- Se busca un emulador del 8086 compatible con el Sistema Operativo que tengamos a disposición.
-- Para la simulación se utiliza un programa en lenguaje esamblador (asm).
-- Se verifica en el correcto funcionamiento del emulador.
+## 1. PLANTEAMIENTO DEL PROBLEMA
+nvestigación acerca de  Node-Red características principales, nodos fundamentales y usos como una herramienta de programación visual para aplicaciones básicas, a realizarse por parte de los estudiantes de segundo año de Tic´s de la Universidad de las Fuerzas armadas “Espe” en el año 2020
 
 
 ## 2. OBJETIVOS
