@@ -61,6 +61,7 @@ En la siguiente imagen podemos ver que las imágenes con la notificación en ama
 
 Después tenemos que realizar un flujo simple  en el cual primero estar en forma de nodo de inyección de segundo se encuentra el nodo netBeast este segundo nod se encontrara en modo de depuración.
 Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente imagen.
+
 ![](img/2.png)
 ![](img/4.png)
 
