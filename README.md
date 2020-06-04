@@ -190,6 +190,5 @@ Puede buscar nodos disponibles en la biblioteca Node-RED.
 **5.** Luego deberá reiniciar Node-RED para que pueda recoger los nuevos nodos.
 Las versiones recientes de npm agregarán automáticamente el módulo a la sección de dependencias del archivo package.json en su directorio de usuario.
 
-**Nota:**  Durante el desarrollo también es posible instalar nodos copiando sus archivos .js y .html en un directorio de nodos dentro de su directorio de datos de usuario. Si estos nodos tienen dependencias npm, también deben instalarse dentro del directorio de datos del usuario. Esto solo se recomienda realmente para fines de desarrollo.
 
 
