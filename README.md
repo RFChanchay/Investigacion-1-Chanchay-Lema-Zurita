@@ -65,8 +65,8 @@ Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente i
 ![](img/4.png)
 
 ## 6.Lista de Componentes
--Dispositivo de 32 o 64 bits.
--Programa Node.js
+- Dispositivo de 32 o 64 bits.
+- Programa Node.js
 
 ## 7.Codigo Fuente
 Node-Red se basa en Node.js. Para instalar el Node-Red, necesitas tener tanto Node.js instalado como NPM. Con NPM, es muy fácil instalar. Debemos acceder al common pront de Node.js y digitar:
