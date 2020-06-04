@@ -115,7 +115,7 @@ Utilizaremos los nodos Dashboard para ser más específicos los widgets Chart y 
 #### Código de Arduino
 Nuestro código va a tomar 10 muestras de los valores de voltaje ingresado dividido por el divisor de voltaje, entonces mediante la calibración debemos determinar los valores óptimos para que concuerde la medición de un voltímetro real y nuestro código.
 
-![](img/10.png)
+![](img/14.png)
 
 
 
