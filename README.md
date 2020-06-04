@@ -53,7 +53,7 @@ Dentro de la categoría de nodos adicionales, tenemos una infinidad de tipos y d
 Una vez que se tiene claro los fundamentos teóricos y  el funcionamiento de los tipos de nodos con los que vamos a trabajar, es necesario saber en qué campos podemos trabajar los diversos ejemplos que hagamos dentro de Node-Red y nos encontramos con lo que se hace con frecuencia hoy en día con los programas, que es orientarlo al internet de las cosas, con su particularidad, la cual por lo general es facilitar las cosas a un consumidor por medio de internet, además que logra incluir problemas o acciones que nos rodean en el diario vivir las cuales podemos implementar en Node-Red usándolo como nuestra plataforma para el internet de las cosas.  
 Siendo así que podemos basar nuestras aportaciones en muchos de los ejemplos que existen de Note-Red en el internet de las cosas. 
 
-## 5.Diagramas 
+## 5. Diagramas 
 Automatización de las luces de una casa por nodos
 En la siguiente imagen podemos ver que las imágenes con la notificación en amarillo son las que están ejecutando pero no se puede encontrar ningún dispositivo para que el dispositivo aparezca debe estar conectado a la misma red.
 
@@ -64,20 +64,20 @@ Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente i
 ![](img/2.png)
 ![](img/4.png)
 
-## 6.Lista de Componentes
+## 6. Lista de Componentes
 - Dispositivo de 32 o 64 bits.
 - Programa Node.js
 
-## 7.Codigo Fuente
+## 7. Codigo Fuente
 Node-Red se basa en Node.js. Para instalar el Node-Red, necesitas tener tanto Node.js instalado como NPM. Con NPM, es muy fácil instalar. Debemos acceder al common pront de Node.js y digitar:
 - npm install -g node-red
 El editor de flujo de Node-Red es una aplicación basada en navegadores web. Para poder utilizarlo, ejecuta Node-Red en el common pront:
 - node-red
 
-## 8.Descripción de Prerrequisitos y configuración.
+## 8. Descripción de Prerrequisitos y configuración.
 Esto puede depender del proyecto que se vaya a poner en marcha con node-red se necesita Windows 7/8/10 de (32 o 64 bits), Mac OS o incluso se la podemos instalar en una raspberry pi claro que dependiendo el hardware en el cual se corre node-red tendrá diferentes limitaciones o problemas de compatibilidad que se pueden solucionar con la intalacion de diferentes drivers faltantes.
 
-## 9.Aportaciones
+## 9. Aportaciones
 ###  Voltimetro en la pantalla de tu computadora
 #### Materiales:
 - 1 Resistencia 1MOhm.
@@ -117,20 +117,20 @@ Nuestro código va a tomar 10 muestras de los valores de voltaje ingresado divid
 
 ![](img/14.png)
 
-## 10.Conclusiones
+## 10. Conclusiones
 El análisis y dedicación correspondiente que se le dio a nuestra investigación nos arroja como conclusiones que la herramienta Node-RED es de gran utilidad y brinda grandes bondades hasta para aquellos usuarios que no poseen un amplio conocimiento de programación, debido a que la instalación  e implementación de sus nodos por medio de la programación orientada a objetos resulta ser bastante amigable con la comunidad que quiere empezar en este medio, sin embargo al momento de profundizar e ir por proyectos más complejos nos topamos con una herramienta bastante completa que demanda el conocer diferentes apartados de la misma para poder llevar a cabo programas más grandes.
 
 También podemos concluir que Node-RED tiene gran influencia en lo que hoy en dia llamamos “el internet de las cosas” ya que existe una infinidad de proyectos que nos ayudan a optimizar nuestro entorno cotidiano, ya sea facilitando una acción o personalizándola a nuestro gusto, lo que nos demuestra que esta herramienta de programación ha logrado su objetivo en la comunidad.
 
-## 11.Recomendaciones
+## 11. Recomendaciones
 Son pocas las recomendaciones que se puede dar sobre esta herramienta ya que se apoya con gran eficacia en su página web donde se puede encontrar varios apartados para la ayuda y guía de quien lo necesite. Sin embargo se puede rescatar unas pocas recomendaciones tal como:
 - El tema de los comandos, ya que resulta tedioso en diferentes apartados como la instalación, y también en la configuración del host, esto se debe a que Note-RED usa comandos propios, por lo cual se recomienda empaparse muy bien en lo que a comandos de la herramienta respecta.
 - Otra recomendación que se puede dar es la de descargar al menos 3 librerias, ya que la herramienta como tal carece de variedad de nodos.
 
-## 12.Cronograma
+## 12. Cronograma
 ![](img/10.PNG)
 
-## 13.Bibliografía
+## 13. Bibliografía
 
 #### References
 Bouhedda, M., Benyezza, H., Metali, I., Kebir, S. T., & Rebouh, S. (2019). Traffic Intersection Fuzzy Control and Supervision System based on IoT. 2019 International Conference on Applied Automation and Industrial Diagnostics (ICAAID). doi:10.1109/icaaid.2019.8934994
@@ -145,5 +145,9 @@ Techedge, Rhino Node-RED,Pablo Sancho, 2020, recopilado de: https://www.techedge
 
 Node-RED, Running on Raspberry Pi y Adding nodes to the palette,recopilado de: https://nodered.org/docs/user-guide/runtime/adding-nodes y https://nodered.org/docs/getting-started/raspberrypi
 
+## 14.1. Manual del Usuario
+Para la instalación de la herramienta (en Raspberry Pi) y los nodos correspondientes.
 
-
+####Instalación de la Herramienta
+- **Nota:** Se debe tomar en cuenta los prerrequisitos para Raspberry Pi
+- **1** Proporcionamos un script para instalar Node.js, npm y Node-RED en una Raspberry Pi. El script también se puede usar para actualizar una instalación existente cuando hay una nueva versión disponible.
