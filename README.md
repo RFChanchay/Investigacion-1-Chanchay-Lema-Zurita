@@ -54,3 +54,10 @@ Una vez que se tiene claro los fundamentos teóricos y  el funcionamiento de los
 Siendo así que podemos basar nuestras aportaciones en muchos de los ejemplos que existen de Note-Red en el internet de las cosas. 
 
 ## 5.Diagramas 
+Automatización de las luces de una casa por nodos
+En la siguiente imagen podemos ver que las imágenes con la notificación en amarillo son las que están ejecutando pero no se puede encontrar ningún dispositivo para que el dispositivo aparezca debe estar conectado a la misma red.
+![](img/1.png)
+Después tenemos que realizar un flujo simple  en el cual primero estar en forma de nodo de inyección de segundo se encuentra el nodo netBeast este segundo nod se encontrara en modo de depuración.
+![](img/2.png)
+![](img/4.png)
+
