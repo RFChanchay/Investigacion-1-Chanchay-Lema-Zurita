@@ -86,3 +86,9 @@ Esto puede depender del proyecto que se vaya a poner en marcha con node-red se n
 - 1 Arduino
 - 1 Protoboard
 - 1 Fuente de poder
+
+#### Funcionamiento
+Un microcontrolador como lo es el arduino trabaja con voltajes entre 0v-5v, con pines de entrada y salida. En sus pines de entrada cuenta con entradas analogicas que nos permiten medir valores que variables siempre y cuando sean pequeños. Por este motivo si queremos realizar un voltímetro usaremos estas entradas.
+Las entradas análogas en caso de un sobrevoltaje pueden ocasionar da;os en nuestro arduino por lo que debemos disminuir el valor de entrada del voltaje mediante un divisor de voltaje.
+
+![](img/5.png)
