@@ -117,8 +117,18 @@ Nuestro código va a tomar 10 muestras de los valores de voltaje ingresado divid
 
 ![](img/14.png)
 
+## 10.Conclusiones
+El análisis y dedicación correspondiente que se le dio a nuestra investigación nos arroja como conclusiones que la herramienta Node-RED es de gran utilidad y brinda grandes bondades hasta para aquellos usuarios que no poseen un amplio conocimiento de programación, debido a que la instalación  e implementación de sus nodos por medio de la programación orientada a objetos resulta ser bastante amigable con la comunidad que quiere empezar en este medio, sin embargo al momento de profundizar e ir por proyectos más complejos nos topamos con una herramienta bastante completa que demanda el conocer diferentes apartados de la misma para poder llevar a cabo programas más grandes.
 
+También podemos concluir que Node-RED tiene gran influencia en lo que hoy en dia llamamos “el internet de las cosas” ya que existe una infinidad de proyectos que nos ayudan a optimizar nuestro entorno cotidiano, ya sea facilitando una acción o personalizándola a nuestro gusto, lo que nos demuestra que esta herramienta de programación ha logrado su objetivo en la comunidad.
 
+## 11.Recomendaciones
+Son pocas las recomendaciones que se puede dar sobre esta herramienta ya que se apoya con gran eficacia en su página web donde se puede encontrar varios apartados para la ayuda y guía de quien lo necesite. Sin embargo se puede rescatar unas pocas recomendaciones tal como:
+- El tema de los comandos, ya que resulta tedioso en diferentes apartados como la instalación, y también en la configuración del host, esto se debe a que Note-RED usa comandos propios, por lo cual se recomienda empaparse muy bien en lo que a comandos de la herramienta respecta.
+- Otra recomendación que se puede dar es la de descargar al menos 3 librerias, ya que la herramienta como tal carece de variedad de nodos.
+
+## 12.Cronograma
+![](img/10.PNG)
 
 
 
