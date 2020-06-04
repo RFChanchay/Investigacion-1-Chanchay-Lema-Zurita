@@ -130,8 +130,20 @@ Son pocas las recomendaciones que se puede dar sobre esta herramienta ya que se 
 ## 12.Cronograma
 ![](img/10.PNG)
 
+## 13.Bibliografía
 
+#### References
+Bouhedda, M., Benyezza, H., Metali, I., Kebir, S. T., & Rebouh, S. (2019). Traffic Intersection Fuzzy Control and Supervision System based on IoT. 2019 International Conference on Applied Automation and Industrial Diagnostics (ICAAID). doi:10.1109/icaaid.2019.8934994
 
+Kodali, R. K., & Anjum, A. (2018). IoT Based HOME AUTOMATION Using Node-RED. 2018 Second International Conference on Green Computing and Internet of Things (ICGCIoT). doi:10.1109/icgciot.2018.8753085
+
+Toc, S., & Korodi, A. (2018). Modbus-OPC UA Wrapper Using Node-RED and IoT-2040 with Application in the Water Industry. 2018 IEEE 16th International Symposium on Intelligent Systems and Informatics (SISY). doi:10.1109/sisy.2018.8524749
+
+Developers, Jesus Dario,2016, Programación Visual con Node-Red: Conectando el Internet de las Cosas con Facilidad, recopilado de: https://www.toptal.com/nodejs/programacion-visual-con-node-red-conectando-el-internet-de-las-cosas-con-facilidad#:~:text=En%20Node%2DRED%2C%20cada%20nodo,realizan%20alg%C3%BAn%20trabajo%20en%20%C3%A9l.
+
+Techedge, Rhino Node-RED,Pablo Sancho, 2020, recopilado de: https://www.techedgegroup.com/es/blog/fundamenos-node-red
+
+Node-RED, Running on Raspberry Pi y Adding nodes to the palette,recopilado de: https://nodered.org/docs/user-guide/runtime/adding-nodes y https://nodered.org/docs/getting-started/raspberrypi
 
 
 
