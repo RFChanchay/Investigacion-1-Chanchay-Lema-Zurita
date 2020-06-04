@@ -92,3 +92,14 @@ Un microcontrolador como lo es el arduino trabaja con voltajes entre 0v-5v, con 
 Las entradas análogas en caso de un sobrevoltaje pueden ocasionar da;os en nuestro arduino por lo que debemos disminuir el valor de entrada del voltaje mediante un divisor de voltaje.
 
 ![](img/5.png)
+- **Nota:** Respetar polaridad de la fuente de voltaje.
+#### Los nodos a utilizar son:
+- Nodo de puertos Seriales, estos permitirán la comunicación punto a punto vía serial Arduino PC(Node-RED).
+- Nodos de Node-RED Dashboard, Permite una variedad de nodos Widgets para crear visualizaciones espectaculares.
+
+![](img/6.png)
+Configuración Nodo chart (Node-RED Dashboard)
+
+Con unas pocas configuraciones podemos crear una gráfica para visualizar en nuestros datos.
+
+![](img/7.png)
