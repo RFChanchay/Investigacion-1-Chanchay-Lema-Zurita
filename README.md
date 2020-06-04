@@ -12,7 +12,7 @@ Investigación acerca de  Node-Red características principales, nodos fundament
 - Identificar los tipos de Nodos Fundamentales de Node-Red y sus aplicaciones específicas.
 - Adquirir nociones básicas del lenguaje esamblador (asm).
 - Desarrollar ejemplos prácticos con los Nodos de tipo Adicional, Central y de Almacenamiento.
-- Indicar la manera correcta de instalación de Node-Red en un computador. ****
+- Indicar la manera correcta de instalación de Node-Red en un computador.
 
 
 ## 3. ESTADO DEL ARTE
@@ -20,10 +20,7 @@ Investigación acerca de  Node-Red características principales, nodos fundament
 
 
 ## 4. MARCO TEORIÓCO 
-El Intel 8086 y el Intel 8088 son los primeros microprocesadores de 16 bits diseñados por Intel. Son los primeros miembros de la arquitectura x86. Fue lanzado al mercado en 1978 y el 8088 en 1979.
-El 8086 y 8088 ejecutan el mismo número de instrucciones. Comparándolos internamente son idénticos a excepción del 8086 que posee una cola de 6 bytes para instrucciones y el 8088 solo posee 4. Exteriormente la diferencia es que el
-8086 tiene un bus de 16 bits y el 8088 su bus es de 8 bits, por lo tanto, el 8086 es más rápido, aunque el 8088 permite la fabricación de sistemas más económicos.
-En la primera computadora personal de IBM fue utilizado el microprocesador 8088, la IBM PC.
+Para poder fomentar bien las bases de nuestra investigación debemos aclarar específicamente las dudas de conocimiento que se tenga sobre el mismo, y sobre lo que se va a trabajar, para lo cual vamos a tomar como punto de partida una vista rápida a los fundamentos de Node-Red los cuales nos serán útiles para ubicarnos dentro de la herramienta.
 
 #### Características
 - El 8086 dispone de instrucciones especiales para el tratamiento de cadenas de caracteres. 
