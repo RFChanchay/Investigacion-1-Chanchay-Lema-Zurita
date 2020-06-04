@@ -2,17 +2,17 @@
 
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-nvestigación acerca de  Node-Red características principales, nodos fundamentales y usos como una herramienta de programación visual para aplicaciones básicas, a realizarse por parte de los estudiantes de segundo año de Tic´s de la Universidad de las Fuerzas armadas “Espe” en el año 2020
+Investigación acerca de  Node-Red características principales, nodos fundamentales y usos como una herramienta de programación visual para aplicaciones básicas, a realizarse por parte de los estudiantes de segundo año de Tic´s de la Universidad de las Fuerzas armadas “Espe” en el año 2020
 
 
 ## 2. OBJETIVOS
-### **Objetivo General**
-- Emular el compartamiento del microprocesador 8086.
-### **Objetivos específicos**
-- Instruirse en el uso básico del software para la simulación de programas aptos para el aprendizaje.
+### **General**
+- Analizar la aplicación Node-Red, sus características y los usos que tiene en el campo de la Informática y Programación.
+### **Específicos**
+- Identificar los tipos de Nodos Fundamentales de Node-Red y sus aplicaciones específicas.
 - Adquirir nociones básicas del lenguaje esamblador (asm).
-- Implementar un programa sencillo en lenguaje esamblador.
-- Analizar el comportamiento del software ****
+- Desarrollar ejemplos prácticos con los Nodos de tipo Adicional, Central y de Almacenamiento.
+- Indicar la manera correcta de instalación de Node-Red en un computador. ****
 
 
 ## 3. ESTADO DEL ARTE
