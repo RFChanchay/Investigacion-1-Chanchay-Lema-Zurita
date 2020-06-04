@@ -16,7 +16,9 @@ Investigación acerca de  Node-Red características principales, nodos fundament
 
 
 ## 3. ESTADO DEL ARTE
-
+![](img/11.png)
+![](img/12.png)
+![](img/13.png)
 
 
 ## 4. MARCO TEORIÓCO 
