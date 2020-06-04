@@ -57,4 +57,9 @@ Siendo así que podemos basar nuestras aportaciones en muchos de los ejemplos qu
 Automatización de las luces de una casa por nodos
 En la siguiente imagen podemos ver que las imágenes con la notificación en amarillo son las que están ejecutando pero no se puede encontrar ningún dispositivo para que el dispositivo aparezca debe estar conectado a la misma red.
 
-![](img/1.png)
+![](img/1.jpg)
+
+Después tenemos que realizar un flujo simple  en el cual primero estar en forma de nodo de inyección de segundo se encuentra el nodo netBeast este segundo nod se encontrara en modo de depuración.
+Y al final solo se enlazan los 3 nodos en un flujo simple como en la siguiente imagen.
+![](img/2.png)
+![](img/4.png)
